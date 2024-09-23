@@ -1,5 +1,13 @@
 [mod_conf.accountDataApiClient]
 endpointUrl = "value"
+clientID = "value"
+clientSecret = "value"
+tokenUrl = "value"
+timeout = "value"
 
 [mod_conf.accountDataRoiSocsApiClient]
 endpointUrl = "value2"
+clientID = "value2"
+clientSecret = "value2"
+tokenUrl = "value2"
+timeout = "value2"
