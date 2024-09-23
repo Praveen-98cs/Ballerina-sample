@@ -1,0 +1,2 @@
+
+public configurable string endpointUrl = ?;

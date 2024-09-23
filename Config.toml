@@ -1,0 +1,5 @@
+[mod_conf.accountDataApiClient]
+endpointUrl = "value"
+
+[mod_conf.accountDataRoiSocsApiClient]
+endpointUrl = "value2"
