@@ -66,3 +66,18 @@ modules = [
 	{org = "poorna", packageName = "mod_conf", moduleName = "mod_conf.accountDataRoiSocsApiClient"}
 ]
 
+[[package]]
+org = "nuvin"
+name = "mod_conf"
+version = "0.1.0"
+dependencies = [
+	{org = "ballerina", name = "io"},
+	{org = "ballerinai", name = "observe"}
+]
+modules = [
+	{org = "nuvin", packageName = "mod_conf", moduleName = "mod_conf"},
+	{org = "nuvin", packageName = "mod_conf", moduleName = "mod_conf.accountDataApiClient"},
+	{org = "nuvin", packageName = "mod_conf", moduleName = "mod_conf.accountDataRoiSocsApiClient"}
+]
+
+
